@@ -3,7 +3,7 @@
 These are the server script files for the [7th Rangers][7r] Liberation server
 using the Chernarus map.
 
-[Based on KillahPotatoes KP-Liberation](KillahPotatoes/KP-Liberation).
+[Based on KillahPotatoes KP-Liberation](https://github.com/KillahPotatoes/KP-Liberation).
 
 ## Server Information
 

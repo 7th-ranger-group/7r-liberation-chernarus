@@ -11,6 +11,7 @@ When you are at an FOB you will have the resources overlay on the ride side of
 * Exclamation Mark (!) is the hostility level, we need to keep it low.
  Beyond 60% we need to consider doing sidemissions to lower it.
 <br />
+<br />
 * The House Mark is the civilian score, a negative score means hostile guerella forces and IEDs
 on the roads. We want to keep this score to a healthy positive, hearts and minds folks!
 <br />
@@ -30,9 +31,11 @@ on the roads. We want to keep this score to a healthy positive, hearts and minds
 <br />
 * 5. After the area is clear search for and treat wounded civilians. They are highlighted
  on your GPS in a red circled area.
+<br />
 
 <br/>
 <font size='18'>General Rules</font>
+<br />
 <br />
 * 6. If a player asks you to cease fire inside an FOB you need to immediately comply.
 <br />
@@ -108,6 +111,7 @@ Participate in at least one op per week or leave a LOA on Discord.
 
 <font size='18'>In Game Rules</font>
 <br />
+<br />
 6. Do not cheat or use any unauthorised mods.
 <br /><br />
 7. Follow our procedures as outlined in our handbook and trainings.
@@ -131,6 +135,7 @@ This includes not spoiling any knowledge you may have when replaying a mission o
 12. Follow our respawn policy as outlined in the handbook.
 <br /><br />
 <font size='18'>Recording Rules</font>
+<br />
 <br />
 13. Prior to streaming you must announce it cleary to everyone involved.
 <br /><br />

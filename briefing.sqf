@@ -1,5 +1,7 @@
 
-_exe = player createDiaryRecord ["diary", ["Liberation Server Rules","
+player createDiarySubject ["Rules", "Rules"];
+
+_exe = player createDiaryRecord ["Rules", ["Liberation Server Rules","
 <br/>
 <font size='18'>Hostile and Civilian Scores</font>
 <br />
@@ -42,7 +44,7 @@ on the roads. We want to keep this score to a healthy positive, hearts and minds
 
 "]];
 
-_exe = player createDiaryRecord ["diary", ["Community Server Rules","
+_exe = player createDiaryRecord ["Rules", ["Community Server Rules","
 <br/>
 <font size='18'>Help New Members</font>
 <br />
@@ -86,7 +88,7 @@ If total anarchy is 0 (zero) and how 7R runs operations is 10, we should operate
 "]];
 
 
-_exe = player createDiaryRecord ["diary", ["7R Rules","
+_exe = player createDiaryRecord ["Rules", ["7R Rules","
 <br/>
 <font size='18'>General Rules</font>
 <br/>

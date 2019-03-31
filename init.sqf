@@ -40,4 +40,4 @@ if ((isNil {player getVariable "bis_revive_ehHandleHeal"} || isDedicated) && !(b
 };
 
 // Briefing Init
-nul = execVM "briefing.sqf";
+nul = execVM "rules.sqf";

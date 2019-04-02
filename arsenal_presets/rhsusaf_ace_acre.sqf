@@ -121,8 +121,11 @@ GRLIB_arsenal_weapons = [
 	"rhsusf_weap_MP7A2",
 	"rhsusf_weap_MP7A2_aor1",
 	"rhsusf_weap_MP7A2_desert",
-	"rhsusf_weap_MP7A2_winter"
-
+	"rhsusf_weap_MP7A2_winter",
+	"rhs_weap_m249_pip_L_vfg",
+	"rhsusf_acc_anpeq16a",
+	"rhs_200rnd_556x45_M_SAW",
+	"SMA_Mk17"
 ];
 
 GRLIB_arsenal_magazines = [
@@ -495,7 +498,10 @@ GRLIB_arsenal_items = [
 	"SR_PAK",
 	"SR_Bandage_Pack",
 	"SR_Medicine_Pack",
-	"SR_BloodIV_Pack"
+	"SR_BloodIV_Pack",
+	"rhs_googles_clear",
+	"rhsusf_acc_anpeq16a",
+	"SMA_SFPEQ_SCARTOP_BLK"
 ];
 
 GRLIB_arsenal_backpacks = [

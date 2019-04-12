@@ -20,7 +20,7 @@ params [["_backpack", ""]];
 
 private _return = true;
 private _playerItems = [];
-if ((headgear player) != "") then {_playerItems pushBack (headgear player);};
+/*if ((headgear player) != "") then {_playerItems pushBack (headgear player);};
 if ((goggles player) != "") then {_playerItems pushBack (goggles player);};
 if ((uniform player) != "") then {_playerItems pushBack (uniform player);};
 if ((vest player) != "") then {_playerItems pushBack (vest player);};
@@ -49,6 +49,6 @@ if (({(_x in KP_liberation_allowed_items) || ((_x find "ACRE") != -1) || ((_x fi
 	removeHeadgear player;
 	removeGoggles player;
 	_return = false;
-};
+};*/
 
 _return

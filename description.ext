@@ -32,12 +32,13 @@ class CfgDebriefing
 	};
 };
 
-class CfgMusic
+class CfgFunctions
 {
-	class your_choice
-    {
-        name="Your Choice";
-        sound[]={"sounds\your_choice.ogg",db+5,1.0};
-        titles[]={};
-    };
+	class fw
+	{
+		class repair {
+			file = "7R\Repair";
+			class repairStation{};
+		};
+	};
 };
